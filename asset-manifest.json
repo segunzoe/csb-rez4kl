@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://segunzoe.github.io/csb-rez4kl/static/css/main.753ee9d9.chunk.css",
+    "main.js": "https://segunzoe.github.io/csb-rez4kl/static/js/main.1fad2404.chunk.js",
+    "main.js.map": "https://segunzoe.github.io/csb-rez4kl/static/js/main.1fad2404.chunk.js.map",
+    "runtime-main.js": "https://segunzoe.github.io/csb-rez4kl/static/js/runtime-main.a89f32e5.js",
+    "runtime-main.js.map": "https://segunzoe.github.io/csb-rez4kl/static/js/runtime-main.a89f32e5.js.map",
+    "static/js/2.60f297e7.chunk.js": "https://segunzoe.github.io/csb-rez4kl/static/js/2.60f297e7.chunk.js",
+    "static/js/2.60f297e7.chunk.js.map": "https://segunzoe.github.io/csb-rez4kl/static/js/2.60f297e7.chunk.js.map",
+    "index.html": "https://segunzoe.github.io/csb-rez4kl/index.html",
+    "static/css/main.753ee9d9.chunk.css.map": "https://segunzoe.github.io/csb-rez4kl/static/css/main.753ee9d9.chunk.css.map",
+    "static/js/2.60f297e7.chunk.js.LICENSE.txt": "https://segunzoe.github.io/csb-rez4kl/static/js/2.60f297e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a89f32e5.js",
+    "static/js/2.60f297e7.chunk.js",
+    "static/css/main.753ee9d9.chunk.css",
+    "static/js/main.1fad2404.chunk.js"
+  ]
+}
